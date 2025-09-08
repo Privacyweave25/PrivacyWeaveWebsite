@@ -51,7 +51,7 @@ const BlogPage = () => {
                     {/* First Featured Blog Banner */}
                     <Card
                         className="cursor-pointer hover:shadow-2xl transition-all duration-300 transform hover:-translate-y-1 border-0 shadow-lg bg-white"
-                        onClick={handleFirstBlogClick}
+                        onClick={handleFourthBlogClick}
                     >
                         <CardHeader className="bg-gradient-to-r from-[#0a2c5a] to-[#1e40af] py-20 text-white">
                             <div className="flex items-center gap-2 mb-2">
