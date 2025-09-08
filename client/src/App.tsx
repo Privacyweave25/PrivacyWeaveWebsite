@@ -28,7 +28,6 @@ import Footer from "./components/layout/footer";
 import { ChatInterface } from "./components/chat/chat-interface";
 // removed corner logo per request
 import { CookieBanner } from "./components/cookie-banner";
-import FloatingDotsBackground from "./components/floating-dots-background";
 import Feedback from "@/pages/Feedback"; // ✅ Import Feedback component
 
 function Router() {
